@@ -66,6 +66,13 @@
 
 ---
 
+## 📚 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheeth1&layout=compact&theme=radical&langs_count=8" height="165" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
