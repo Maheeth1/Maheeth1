@@ -51,10 +51,17 @@
 
 ## 📌 Featured Projects
 
- - **[OralVis Healthcare App](https://github.com/Maheeth1/oralvis-dentalScan-app)** – A full-stack dental scan management portal with secure, role-based access for technicians and dentists.
- - **[FlickNest](https://flicknest.ccbp.tech)** – Movie streaming app with categorized sliders & video playback
- - **[Websocket Based Video Streaming](https://github.com/Maheeth1/WebSocketBasedVideoStreaming)** – Python + OpenCV-based real-time peer video application with live streaming capabilities.
- - **[ConnectFour](https://github.com/Maheeth1/connectfour)** – JavaFX desktop game with smooth animations and interactive gameplay mechanics.
+- 🦷 **[OralVis Healthcare App](https://github.com/Maheeth1/oralvis-dentalScan-app)**  
+  A full-stack **dental scan management portal** with secure, role-based access for technicians and dentists.  
+
+- 🎬 **[FlickNest](https://flicknest.ccbp.tech)**  
+  A **movie streaming app** featuring categorized sliders & seamless video playback.  
+
+- 📹 **[WebSocket Video Streaming](https://github.com/Maheeth1/WebSocketBasedVideoStreaming)**  
+  A **real-time peer video application** built with Python + OpenCV and WebSockets for live streaming.  
+
+- 🎮 **[ConnectFour](https://github.com/Maheeth1/connectfour)**  
+  A classic **JavaFX desktop game** with smooth animations and interactive gameplay mechanics.  
 
 ---
 
