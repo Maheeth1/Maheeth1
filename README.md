@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maheeth1&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Maheeth1&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheeth1&theme=radical" height="165" />
 </p>
 
 ---
@@ -76,6 +76,7 @@
 ## 📚 Most Used Languages
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maheeth1&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maheeth1&theme=radical" height="165" />
 </p>
 
 ---
