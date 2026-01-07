@@ -67,15 +67,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maheeth1&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Maheeth1&theme=radical" height="165" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-teaminthelab-org.vercel.app/api?username=Maheeth1&show_icons=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Maheeth1&theme=radical" height="165" />
 </p>
 
 ---
 
 ## 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maheeth1&layout=compact&theme=radical&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-teaminthelab-org.vercel.app/api/top-langs/?username=Maheeth1&layout=compact&theme=radical&langs_count=8" height="165" />
 </p>
 
 ---
